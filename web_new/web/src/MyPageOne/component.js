@@ -44,10 +44,10 @@ class UIComponent extends Component {
 	render() {
 		return (
 			<div>
-				<h1>AWS Review Demo - Frontend</h1>
+				<h1>GCP Review Demo - Frontend</h1>
 				<div>
 					<label>
-					cover photo (from S3):
+					cover photo (from Cloud Storage):
 					<br/>
 					<img src="https://XXXXXX"></img>
 					</label>
